@@ -1,7 +1,7 @@
 HAS Project is a Linux-native surveillance and recording utility developed with Python and OpenCV.
 It is designed to monitor live video streams, detect motion patterns, and initiate synchronized audio/video recording based on environmental triggers.
 
-*Roadmap & Future Enhancements
+🗺️Roadmap & Future Enhancements
 The project is continuously evolving. The following modules are planned for future releases:
 
 AI-Powered Object Recognition: Integrating Deep Learning models to distinguish between humans, animals, and vehicles, significantly reducing false-positive motion triggers.
